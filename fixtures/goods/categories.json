@@ -3,8 +3,8 @@
     "model": "goods.categories",
     "pk": 1,
     "fields": {
-        "name": "Все",
-        "slug": "vse"
+        "name": "Все товары",
+        "slug": "all"
     }
 },
 {
@@ -43,16 +43,16 @@
     "model": "goods.categories",
     "pk": 6,
     "fields": {
-        "name": "Декор",
-        "slug": "dekor"
+        "name": "Фурнитура",
+        "slug": "furnitura"
     }
 },
 {
     "model": "goods.categories",
     "pk": 7,
     "fields": {
-        "name": "Баня",
-        "slug": "banya"
+        "name": "Декор",
+        "slug": "dekor"
     }
 }
 ]

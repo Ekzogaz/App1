@@ -34,6 +34,7 @@ def catalog(request, category_slug=None,):
 
     paginator=Paginator(goods, 3) 
     curentpage=paginator.page(int(page))
+    
       
 
 
