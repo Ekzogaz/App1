@@ -5,7 +5,7 @@ from django.db import models
 class User(AbstractUser):
     image = models.ImageField(
         upload_to='users/images',
-        default='users/default.jpg',
+        default="", 
         blank=True,
         null=True,
         verbose_name='Аватар'
