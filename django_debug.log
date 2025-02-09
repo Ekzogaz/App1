@@ -1,0 +1,169 @@
+INFO 2025-01-31 17:32:41,523 autoreload 24320 31548 Watching for file changes with StatReloader
+INFO 2025-01-31 17:43:56,964 autoreload 24320 31548 D:\dev_env\App1\orders\models.py changed, reloading.
+INFO 2025-01-31 17:44:04,493 autoreload 45932 42020 Watching for file changes with StatReloader
+INFO 2025-01-31 17:46:18,709 autoreload 45932 42020 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-01-31 17:46:35,158 autoreload 19328 43608 Watching for file changes with StatReloader
+INFO 2025-01-31 17:48:10,675 autoreload 19328 43608 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-01-31 17:48:22,730 autoreload 2592 25116 Watching for file changes with StatReloader
+INFO 2025-01-31 17:52:13,490 autoreload 2592 25116 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-01-31 17:52:27,502 autoreload 18596 31212 Watching for file changes with StatReloader
+INFO 2025-01-31 17:54:33,384 autoreload 18596 31212 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-01-31 17:54:42,174 autoreload 42540 24628 Watching for file changes with StatReloader
+INFO 2025-02-01 11:44:23,861 autoreload 22352 29596 Watching for file changes with StatReloader
+INFO 2025-02-01 11:44:26,042 basehttp 22352 22672 "GET / HTTP/1.1" 200 22866
+INFO 2025-02-01 11:44:37,409 basehttp 22352 22672 "GET /orders/create/ HTTP/1.1" 200 26094
+INFO 2025-02-01 11:47:13,411 autoreload 25268 12820 Watching for file changes with StatReloader
+INFO 2025-02-01 11:47:15,409 basehttp 22352 22672 "GET / HTTP/1.1" 200 22864
+INFO 2025-02-01 11:47:18,485 basehttp 22352 22672 "GET /orders/create/ HTTP/1.1" 200 26929
+INFO 2025-02-01 11:49:50,705 autoreload 5860 352 Watching for file changes with StatReloader
+INFO 2025-02-01 11:49:52,746 basehttp 22352 22672 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 11:49:55,616 basehttp 22352 22672 "GET /orders/create/ HTTP/1.1" 200 26930
+WARNING 2025-02-01 11:50:09,294 basehttp 22352 22672 "GET /static/deps/css/bootstrap/bootstrap/bootstrap.min.css.map HTTP/1.1" 404 1909
+WARNING 2025-02-01 11:50:09,301 basehttp 22352 42128 "GET /static/deps/js/bootstrap/bootstrap/bootstrap.bundle.min.js.map HTTP/1.1" 404 1924
+INFO 2025-02-01 11:51:10,713 basehttp 22352 36320 "GET / HTTP/1.1" 200 22864
+WARNING 2025-02-01 11:51:10,848 basehttp 22352 36320 "GET /static/deps/css/bootstrap/bootstrap/bootstrap.min.css.map HTTP/1.1" 404 1909
+WARNING 2025-02-01 11:51:10,872 basehttp 22352 17832 "GET /static/deps/js/bootstrap/bootstrap/bootstrap.bundle.min.js.map HTTP/1.1" 404 1924
+INFO 2025-02-01 11:51:17,573 basehttp 22352 28316 "GET /orders/create/ HTTP/1.1" 200 26929
+WARNING 2025-02-01 11:51:17,695 basehttp 22352 28316 "GET /static/deps/css/bootstrap/bootstrap/bootstrap.min.css.map HTTP/1.1" 404 1909
+WARNING 2025-02-01 11:51:17,748 basehttp 22352 23908 "GET /static/deps/js/bootstrap/bootstrap/bootstrap.bundle.min.js.map HTTP/1.1" 404 1924
+INFO 2025-02-01 11:52:23,623 autoreload 25268 12820 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 11:52:23,880 autoreload 22352 29596 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 11:52:24,251 autoreload 5860 352 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 11:52:25,255 autoreload 42748 15868 Watching for file changes with StatReloader
+INFO 2025-02-01 11:52:25,489 autoreload 26740 24504 Watching for file changes with StatReloader
+INFO 2025-02-01 11:52:25,764 autoreload 43056 24672 Watching for file changes with StatReloader
+INFO 2025-02-01 11:53:06,296 autoreload 18956 38660 Watching for file changes with StatReloader
+INFO 2025-02-01 11:53:08,423 basehttp 42748 43520 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 11:53:11,266 basehttp 42748 43520 "GET /orders/create/ HTTP/1.1" 200 26930
+INFO 2025-02-01 11:54:13,686 autoreload 26740 24504 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 11:54:13,926 autoreload 43056 24672 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 11:54:14,073 autoreload 18956 38660 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 11:54:14,230 autoreload 42748 15868 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 11:54:15,389 autoreload 9484 26396 Watching for file changes with StatReloader
+INFO 2025-02-01 11:54:15,586 autoreload 14136 8808 Watching for file changes with StatReloader
+INFO 2025-02-01 11:54:15,674 autoreload 28644 17936 Watching for file changes with StatReloader
+INFO 2025-02-01 11:54:15,802 autoreload 26660 44056 Watching for file changes with StatReloader
+WARNING 2025-02-01 11:54:56,690 log 9484 25756 Not Found: /get_cities/
+WARNING 2025-02-01 11:54:56,691 basehttp 9484 25756 "GET /get_cities/ HTTP/1.1" 404 12962
+INFO 2025-02-01 11:54:56,795 basehttp 9484 25756 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2025-02-01 11:54:56,797 basehttp 9484 38472 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13404
+INFO 2025-02-01 11:54:56,797 basehttp 9484 17636 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2025-02-01 11:54:56,829 basehttp 9484 38472 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 2025-02-01 11:54:57,009 log 9484 38472 Not Found: /favicon.ico
+WARNING 2025-02-01 11:54:57,009 basehttp 9484 38472 "GET /favicon.ico HTTP/1.1" 404 12962
+WARNING 2025-02-01 11:56:24,501 log 9484 38472 Not Found: /get_cities/
+WARNING 2025-02-01 11:56:24,502 basehttp 9484 38472 "GET /get_cities/ HTTP/1.1" 404 12962
+INFO 2025-02-01 11:56:45,530 autoreload 19844 30464 Watching for file changes with StatReloader
+INFO 2025-02-01 11:56:47,503 basehttp 9484 41020 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 11:56:50,207 basehttp 9484 41020 "GET /orders/create/ HTTP/1.1" 200 26929
+INFO 2025-02-01 11:58:45,492 autoreload 30004 21428 Watching for file changes with StatReloader
+INFO 2025-02-01 11:58:47,202 basehttp 9484 41020 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 11:58:49,950 basehttp 9484 41020 "GET /orders/create/ HTTP/1.1" 200 26929
+INFO 2025-02-01 11:59:45,062 autoreload 30004 21428 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:45,081 autoreload 19844 30464 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:45,720 autoreload 26660 44056 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:45,770 autoreload 28644 17936 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:45,883 autoreload 9484 26396 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:45,918 autoreload 14136 8808 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 11:59:46,787 autoreload 18464 35048 Watching for file changes with StatReloader
+INFO 2025-02-01 11:59:46,817 autoreload 32536 14964 Watching for file changes with StatReloader
+INFO 2025-02-01 11:59:47,780 autoreload 41888 41812 Watching for file changes with StatReloader
+INFO 2025-02-01 11:59:47,916 autoreload 17716 18560 Watching for file changes with StatReloader
+INFO 2025-02-01 11:59:48,055 autoreload 24136 34812 Watching for file changes with StatReloader
+INFO 2025-02-01 11:59:48,093 autoreload 35920 43672 Watching for file changes with StatReloader
+INFO 2025-02-01 12:00:27,084 autoreload 43280 15940 Watching for file changes with StatReloader
+INFO 2025-02-01 12:00:29,239 basehttp 18464 16192 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 12:00:31,845 basehttp 18464 16192 "GET /orders/create/ HTTP/1.1" 200 26929
+WARNING 2025-02-01 12:00:51,784 log 18464 13448 Not Found: /get_cities/
+WARNING 2025-02-01 12:00:51,786 basehttp 18464 13448 "GET /get_cities/ HTTP/1.1" 404 12962
+INFO 2025-02-01 12:01:55,945 autoreload 18464 35048 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,063 autoreload 43280 15940 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,142 autoreload 32536 14964 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,526 autoreload 17716 18560 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,756 autoreload 35920 43672 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,798 autoreload 24136 34812 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:56,911 autoreload 41888 41812 D:\dev_env\App1\orders\views.py changed, reloading.
+INFO 2025-02-01 12:01:58,222 autoreload 45484 37028 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:58,413 autoreload 16676 35252 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:58,473 autoreload 12856 18012 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:58,939 autoreload 14472 32696 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:59,222 autoreload 40988 1792 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:59,230 autoreload 37544 42064 Watching for file changes with StatReloader
+INFO 2025-02-01 12:01:59,306 autoreload 10964 10340 Watching for file changes with StatReloader
+INFO 2025-02-01 12:02:25,498 autoreload 1308 25484 Watching for file changes with StatReloader
+INFO 2025-02-01 12:02:27,413 basehttp 45484 31628 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 12:02:30,153 basehttp 45484 31628 "GET /orders/create/ HTTP/1.1" 200 26929
+WARNING 2025-02-01 12:02:47,027 basehttp 45484 31628 "GET /static/deps/css/bootstrap/bootstrap/bootstrap.min.css.map HTTP/1.1" 404 1909
+WARNING 2025-02-01 12:02:47,034 basehttp 45484 43212 "GET /static/deps/js/bootstrap/bootstrap/bootstrap.bundle.min.js.map HTTP/1.1" 404 1924
+WARNING 2025-02-01 12:04:01,716 log 45484 35976 Not Found: /get_cities/
+WARNING 2025-02-01 12:04:01,718 basehttp 45484 35976 "GET /get_cities/ HTTP/1.1" 404 12962
+WARNING 2025-02-01 12:04:02,622 log 45484 35976 Not Found: /get_cities/
+WARNING 2025-02-01 12:04:02,625 basehttp 45484 35976 "GET /get_cities/ HTTP/1.1" 404 12962
+INFO 2025-02-01 12:06:53,553 autoreload 10964 10340 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:53,592 autoreload 1308 25484 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:53,824 autoreload 12856 18012 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:53,864 autoreload 16676 35252 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:53,896 autoreload 40988 1792 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:53,973 autoreload 45484 37028 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:54,016 autoreload 14472 32696 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:54,099 autoreload 37544 42064 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:06:55,963 autoreload 6408 41380 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:55,978 autoreload 25548 21180 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,365 autoreload 18792 24112 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,390 autoreload 27948 31272 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,528 autoreload 18896 38872 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,577 autoreload 15992 40440 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,714 autoreload 33496 44184 Watching for file changes with StatReloader
+INFO 2025-02-01 12:06:56,830 autoreload 11104 28760 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:10,741 autoreload 28160 18736 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:31,997 autoreload 6408 41380 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,022 autoreload 25548 21180 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,202 autoreload 28160 18736 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,589 autoreload 18792 24112 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,691 autoreload 27948 31272 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,864 autoreload 11104 28760 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,920 autoreload 33496 44184 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,924 autoreload 15992 40440 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:32,946 autoreload 18896 38872 D:\dev_env\App1\orders\urls.py changed, reloading.
+INFO 2025-02-01 12:07:33,937 autoreload 1612 356 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:34,028 autoreload 45108 44644 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:34,322 autoreload 40884 38340 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,011 autoreload 6260 41808 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,104 autoreload 27692 37916 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,475 autoreload 4856 24076 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,476 autoreload 41976 41368 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,521 autoreload 41668 24532 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:35,602 autoreload 40708 17312 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:56,318 autoreload 30724 28084 Watching for file changes with StatReloader
+INFO 2025-02-01 12:07:58,351 basehttp 1612 25212 "GET / HTTP/1.1" 200 22865
+INFO 2025-02-01 12:08:02,267 basehttp 1612 25212 "GET /orders/create/ HTTP/1.1" 200 26929
+INFO 2025-02-01 12:09:33,587 autoreload 41976 41368 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:33,761 autoreload 1612 356 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:33,903 autoreload 41668 24532 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:33,977 autoreload 45108 44644 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:33,990 autoreload 6260 41808 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:34,034 autoreload 4856 24076 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:34,041 autoreload 27692 37916 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:34,116 autoreload 40708 17312 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:34,128 autoreload 40884 38340 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:34,140 autoreload 30724 28084 D:\dev_env\App1\orders\services.py changed, reloading.
+INFO 2025-02-01 12:09:36,530 autoreload 20680 35680 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,024 autoreload 38192 37956 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,160 autoreload 34124 26320 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,206 autoreload 33696 24548 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,412 autoreload 27560 28284 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,599 autoreload 45460 23052 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,605 autoreload 12440 42000 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,754 autoreload 25564 44328 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:37,767 autoreload 39604 32936 Watching for file changes with StatReloader
+INFO 2025-02-01 12:09:38,060 autoreload 6428 35516 Watching for file changes with StatReloader
+INFO 2025-02-01 12:11:19,860 autoreload 27560 28284 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:19,929 autoreload 45460 23052 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:19,996 autoreload 39604 32936 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,049 autoreload 25564 44328 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,049 autoreload 33696 24548 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,055 autoreload 6428 35516 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,363 autoreload 34124 26320 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,364 autoreload 38192 37956 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,461 autoreload 20680 35680 D:\dev_env\App1\App\settings.py changed, reloading.
+INFO 2025-02-01 12:11:20,680 autoreload 12440 42000 D:\dev_env\App1\App\settings.py changed, reloading.
